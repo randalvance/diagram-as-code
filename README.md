@@ -14,8 +14,9 @@
     1. `STRUCTURIZR_WORKSPACE_ID` - The ID of your workspace
 1. Go to `src/MyDiagrams` and run `dotnet run` command
 1. Your workspace should have been updated now with the diagram defined in your C# code.
-1. For the first time, your diagram's layout will be a mess, you can edit the diagram in the browser and click Auto Layout (the magic wand icon), then save the diagram. Any subsequent run of this program will then respect the layout.
 
 ## References
 1. [Structurizr Getting Started](https://structurizr.com/share/18571/documentation#configuration)
+1. [Structurizr DSL](https://github.com/structurizr/dsl/blob/master/docs/language-reference.md)
 1. [Structurizr C# Client](https://github.com/structurizr/dotnet/blob/master/docs/getting-started.md)
+1. [Structurizr Themes](https://github.com/structurizr/themes)
