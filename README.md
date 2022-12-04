@@ -11,6 +11,7 @@
   1. Set environment variables
     1. `STRUCTURIZR_API_KEY` - The API Key of your workspace
     1. `STRUCTURIZR_API_SECRET` - The API Secret off your workspace
+    1. `STRUCTURIZR_WORKSPACE_ID` - The ID of your workspace
 1. Go to `src/MyDiagrams` and run `dotnet run` command
 1. Your workspace should have been updated now with the diagram defined in your C# code.
 1. For the first time, your diagram's layout will be a mess, you can edit the diagram in the browser and click Auto Layout (the magic wand icon), then save the diagram. Any subsequent run of this program will then respect the layout.
